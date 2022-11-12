@@ -1064,7 +1064,7 @@ button.navbar-toggler:focus {
 }
 
 .navbar-brand img {
-  width: 157px;
+  width: 257px;
 }
 
 /* dropdown toggler */
@@ -1124,7 +1124,7 @@ button.navbar-toggler:focus {
   }
 
   .navbar-brand img {
-    width: 130px;
+    width: 230px;
   }
 
   .navbar-collapse {
@@ -5181,8 +5181,9 @@ footer css
 }
 
 .footer-logo img {
-  width: 230px;
+  width: 257px;
   margin-bottom: 30px;
+  border-radius: 5px;
 }
 
 .copyright {
